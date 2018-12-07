@@ -66,6 +66,8 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 ._图片 {
   color:#000000;
 }
@@ -73,4 +75,6 @@
 }
 .link_button {
   color:#169BD5;
+}
+.line {
 }
